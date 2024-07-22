@@ -41,3 +41,11 @@
 # change of branch : git checkout branchName
 
 # Merging the branch with mnain/master branch : after commit on dev A branch, do checkout to the main branch. Then : git merge dev A , this will merge dev A with the main branch
+
+# Delete the branch : git branch -d devA
+
+### Most important : Resolving conflicts
+
+# do git pull first then resolve the conflict
+
+# git log : check the history of the commits
