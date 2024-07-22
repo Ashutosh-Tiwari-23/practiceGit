@@ -4,7 +4,7 @@
 
 ## Step 1: git init, to initialize the repository
 
-## Step 2: git add , to track the changes/new addded files in the project. Files status changes from untracked to tracked.
+## Step 2: git add , to track the changes/new addded files in the project. Files status changes from untracked to tracked. Note : to add all files together : git add .
 
 ## step 3: git status, to check the status of files added/removed
 
