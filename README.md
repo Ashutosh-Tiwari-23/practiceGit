@@ -31,3 +31,5 @@
 ### Pull the code
 
 ## git pull origin main : so this command will pull all the new changes from main to orogin
+
+## Importance of gitignore : to avoid commit action on certain files that are not intended to be included/commit
