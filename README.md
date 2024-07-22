@@ -39,3 +39,5 @@
 ## Branching strategy : to create replica of the main branch : git branch "branch - Name"
 
 # change of branch : git checkout branchName
+
+# Merging the branch with mnain/master branch : after commit on dev A branch, do checkout to the main branch. Then : git merge dev A , this will merge dev A with the main branch
