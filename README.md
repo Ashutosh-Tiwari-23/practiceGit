@@ -20,7 +20,7 @@
 
 ## step 6: include the destination url of the repository
 
-## git remote add origin https://github.com/ , the name origin is alias of the destination url
+## git remote add origin https://github.com/ , the name origin is alias of the destination url. Note: Once the destination url is set, then this step is not required for the next changes until the destination remains same.
 
 ## final step : to push the code from main to the origin ( final destination)
 
