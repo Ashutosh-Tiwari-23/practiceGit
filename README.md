@@ -27,3 +27,7 @@
 ## step 7: git push -u origin main
 
 ## step 4: git branch, to check the branch
+
+### Pull the code
+
+## git pull origin main : so this command will pull all the new changes from main to orogin
