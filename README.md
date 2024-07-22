@@ -32,4 +32,10 @@
 
 ## git pull origin main : so this command will pull all the new changes from main to orogin
 
-## Importance of gitignore : to avoid commit action on certain files that are not intended to be included/commit
+## Importance of gitignore : to avoid commit action on certain files that are not intended to be included/commit.
+
+# So any specific files/folders that the deveoper does not want to send to the repository, those files/folders shpuld be included in gitignore
+
+## Branching strategy : to create replica of the main branch : git branch "branch - Name"
+
+# change of branch : git checkout branchName
